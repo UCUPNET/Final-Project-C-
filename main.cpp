@@ -1,6 +1,6 @@
 /*
 *-----------------------------------------------------
-*-	 Final Project Kelompok 10 Algoritma Pemograman	 -
+*-	 Final Project Kelompok 9 Algoritma Pemograman	 -
 *-	 Membuat Aplikasi Smart Fisika	                 -
 *-----------------------------------------------------
 *- Kelas  : IF 01
